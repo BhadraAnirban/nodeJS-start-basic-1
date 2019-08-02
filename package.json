@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^11.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhadraAnirban/nodeJS-start-basic-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BhadraAnirban/nodeJS-start-basic-1/issues"
+  },
+  "homepage": "https://github.com/BhadraAnirban/nodeJS-start-basic-1#readme",
+  "description": ""
+}
