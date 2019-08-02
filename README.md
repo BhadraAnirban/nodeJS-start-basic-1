@@ -1,6 +1,5 @@
 Start nodeJS with - package.json, Export module, nodemon, validator, File system
 
-PMKJ
 ### NodeJS use V8 engine. Chrome browser also use V8 engine. At the end it use c++ code.
 Like browser, console.log() is nodeJS’s own predefine method
 ## 1.	Export module –
